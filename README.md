@@ -20,12 +20,15 @@
 *.iml
 
 */.idea/**
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
 
 __pycache__
 myvenv
 db.sqlite3
 .DB_Store
-.idea/
 
 ```
 - Create Python environment:
